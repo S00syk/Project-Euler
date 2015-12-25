@@ -9,4 +9,3 @@ for n in range(1,10000):
                     sum_set.add(n)
                     print(sum_set)
 print(sum(sum_set),sum_set)
-input()
